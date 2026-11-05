@@ -1,1 +1,1 @@
-[![logotype](https://github.com/Alpes-Studio/.github-private/raw/main/profile/assets/logotype.png)](https://alpes.studio/)
+[![logotype](./assets/logotype.png)
