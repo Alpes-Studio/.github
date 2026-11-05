@@ -1,2 +1,2 @@
-# .github-private
+# .github
 Config files for GitHub profile.
