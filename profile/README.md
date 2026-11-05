@@ -1,1 +1,1 @@
-[![logotype](./assets/logotype.png)
+![logotype](./assets/logotype.png)
